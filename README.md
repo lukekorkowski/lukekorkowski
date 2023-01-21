@@ -22,16 +22,14 @@ Here are some ideas to get you started:
 
 #### 📜 If you want to know some history...
 
-I'm a long-time advisor guy. I help other people make decisions. Here are some of the ways I've done that, in reverse chronological order:
+I'm a long-time advisor guy. I help other people make decisions. Here are some of the ways I've done that:
 
-- Real estate broker: I help people figure where to live, how much to spend, and whether to sell. Decision-focused, not sales-focused.
+- Real estate broker
 
-- Real estate and small business transactional attorney: I read and wrote boring documents, made them make sense to regular people, and negotiated deals.
+- Real estate and small business transactional attorney
 
-- Small business consultant: I helped people get out of their own way and increase profitability.
+- Small business consultant
 
-- Clerk to a Montana Supreme Court Justice: I literally wrote his opinions for him, so that's little beyond "advisory" I guess.
-
-- Financial advisor: I assisted folks with investment decisions, again more decision-focused than sales-focused.
+- Financial advisor
 
 Now, I'm coding. The crossover from where I've been to where I'm headed is going to produce some fun opportunities.
