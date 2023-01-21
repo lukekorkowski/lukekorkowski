@@ -1,4 +1,4 @@
-### Hi there 👋
+### Luke Korkowski 👋
 
 <!--
 **lukekorkowski/lukekorkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Current Projects
+#### 🔭 I’m currently working on...
 
 - Building a custom app for tracking real property transactions.
 
 
-
-
-#### Some History
+#### 📜 Some history...
 
 Though I'm now shifting to web development, I'm a long-time advisor guy. I help other people make decisions. Here are some of the ways I've done that, in reverse chronological order:
 
